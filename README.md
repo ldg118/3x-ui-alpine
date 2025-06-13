@@ -1,6 +1,6 @@
 # 3x-ui Alpine Linux 支持版本
 
-这是 3x-ui 项目的修改版本，添加了对 Alpine Linux 系统的完整支持，并改进了中文本地化。
+这是 3x-ui 伊朗原版项目的修改版本，添加了对 Alpine Linux 系统的完整支持，并改进了中文本地化。
 
 ## 主要改进
 
@@ -57,13 +57,13 @@
 ### Alpine Linux
 ```bash
 # 使用修改后的安装脚本
-bash <(curl -Ls https://raw.githubusercontent.com/your-repo/3x-ui/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/ldg118/3x-ui-alpine/refs/heads/main/install.sh)
 ```
 
 ### 其他系统
 ```bash
 # 兼容原有安装方法
-bash <(curl -Ls https://raw.githubusercontent.com/your-repo/3x-ui/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xeefei/3x-ui/master/install.sh)
 ```
 
 ## 服务管理
